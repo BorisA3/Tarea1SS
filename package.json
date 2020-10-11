@@ -1,0 +1,26 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicios en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisA3/Tarea1SS.git"
+  },
+  "keywords": [
+    "ejercicios",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Boris Alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisA3/Tarea1SS/issues"
+  },
+  "homepage": "https://github.com/BorisA3/Tarea1SS#readme"
+}
